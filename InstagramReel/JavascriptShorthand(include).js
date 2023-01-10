@@ -16,4 +16,4 @@ const userAccess = (userRole) => {
   return roles.includes(userRole);
 };
 
-console.log(userAccess("admin"));
+console.log(userAccess("user"));
