@@ -1,1 +1,1 @@
-console.log("<InXcode>");
+console.log('InXcode');
